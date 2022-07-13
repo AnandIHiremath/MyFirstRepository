@@ -1,0 +1,59 @@
+[INFO ] 2022-06-30 18:59:33.265 [main] Runner - initilizing all the methods
+[INFO ] 2022-06-30 18:59:36.765 [main] Runner - Setting Up Browser
+[INFO ] 2022-06-30 18:59:40.456 [main] Runner - Test Executed
+[INFO ] 2022-06-30 18:59:40.593 [main] Runner - Test Passed captured ScreenShot
+[INFO ] 2022-06-30 20:52:12.351 [main] Runner - initilizing all the methods
+[INFO ] 2022-06-30 20:52:20.320 [main] Runner - Setting Up Browser
+[INFO ] 2022-06-30 20:52:23.696 [main] Runner - Test Executed login successful
+[INFO ] 2022-06-30 20:52:23.838 [main] Runner - Test Passed captured ScreenShot
+[INFO ] 2022-06-30 20:54:08.826 [main] Runner - initilizing all the methods
+[INFO ] 2022-06-30 20:54:16.267 [main] Runner - Setting Up Browser
+[INFO ] 2022-06-30 20:54:19.658 [main] Runner - Test Executed login successful
+[INFO ] 2022-06-30 20:54:19.760 [main] Runner - Test Passed captured ScreenShot
+[INFO ] 2022-06-30 21:10:46.249 [main] Runner - initilizing all the methods
+[INFO ] 2022-06-30 21:10:53.851 [main] Runner - Setting Up Browser
+[INFO ] 2022-06-30 21:10:57.216 [main] Runner - Test Executed login successful
+[INFO ] 2022-06-30 21:10:57.352 [main] Runner - Test Passed captured ScreenShot
+[INFO ] 2022-06-30 21:11:02.822 [main] Runner - Test Executed logout successful
+[INFO ] 2022-06-30 21:11:02.932 [main] Runner - Test Passed captured ScreenShot
+[INFO ] 2022-06-30 21:12:44.301 [main] Runner - initilizing all the methods
+[INFO ] 2022-06-30 21:12:51.605 [main] Runner - Setting Up Browser
+[INFO ] 2022-06-30 21:12:54.942 [main] Runner - Test Executed login successful
+[INFO ] 2022-06-30 21:12:55.073 [main] Runner - Test Passed captured ScreenShot
+[INFO ] 2022-06-30 21:17:16.768 [main] Runner - initilizing all the methods
+[INFO ] 2022-06-30 21:17:24.034 [main] Runner - Setting Up Browser
+[INFO ] 2022-06-30 21:17:27.419 [main] Runner - Test Executed login successful
+[INFO ] 2022-06-30 21:17:27.527 [main] Runner - Test Passed captured ScreenShot
+[INFO ] 2022-06-30 21:17:33.518 [main] Runner - Test Executed logout successful
+[INFO ] 2022-06-30 21:17:33.634 [main] Runner - Test Passed captured ScreenShot
+[INFO ] 2022-07-01 00:30:37.188 [main] Runner - initilizing all the methods
+[INFO ] 2022-07-01 00:30:45.231 [main] Runner - Setting Up Browser
+[WARN ] 2022-07-01 00:30:48.402 [main] Runner - This Test Failed captured ScreenShot
+[WARN ] 2022-07-01 00:30:48.929 [main] Runner - This Test Failed captured ScreenShot
+[INFO ] 2022-07-01 00:52:39.821 [main] Runner - initilizing all the methods
+[INFO ] 2022-07-01 00:52:46.974 [main] Runner - Setting Up Browser
+[WARN ] 2022-07-01 00:52:50.118 [main] Runner - This Test Failed captured ScreenShot
+[INFO ] 2022-07-01 00:54:15.595 [main] Runner - initilizing all the methods
+[INFO ] 2022-07-01 00:54:22.919 [main] Runner - Setting Up Browser
+[INFO ] 2022-07-01 00:54:26.305 [main] Runner - Test Executed login successful
+[INFO ] 2022-07-01 00:54:26.428 [main] Runner - Test Passed captured ScreenShot
+[INFO ] 2022-07-01 00:54:32.093 [main] Runner - Test Executed logout successful
+[INFO ] 2022-07-01 00:54:32.206 [main] Runner - Test Passed captured ScreenShot
+[INFO ] 2022-07-01 00:55:33.587 [main] Runner - initilizing all the methods
+[INFO ] 2022-07-01 00:55:39.961 [main] Runner - Setting Up Browser
+[INFO ] 2022-07-01 00:55:43.321 [main] Runner - Test Executed login successful
+[INFO ] 2022-07-01 00:55:43.442 [main] Runner - Test Passed captured ScreenShot
+[INFO ] 2022-07-01 00:55:48.864 [main] Runner - Test Executed logout successful
+[INFO ] 2022-07-01 00:55:48.966 [main] Runner - Test Passed captured ScreenShot
+[INFO ] 2022-07-02 14:37:52.261 [main] Runner - initilizing all the methods
+[INFO ] 2022-07-02 14:38:00.881 [main] Runner - Setting Up Browser
+[INFO ] 2022-07-02 14:38:04.265 [main] Runner - Test Executed login successful
+[INFO ] 2022-07-02 14:38:04.390 [main] Runner - Test Passed captured ScreenShot
+[INFO ] 2022-07-02 14:38:10.547 [main] Runner - Test Executed logout successful
+[INFO ] 2022-07-02 14:38:10.659 [main] Runner - Test Passed captured ScreenShot
+[INFO ] 2022-07-04 13:47:21.010 [main] Runner - initilizing all the methods
+[INFO ] 2022-07-04 13:47:29.284 [main] Runner - Setting Up Browser
+[INFO ] 2022-07-04 13:47:32.811 [main] Runner - Test Executed login successful
+[INFO ] 2022-07-04 13:47:32.928 [main] Runner - Test Passed captured ScreenShot
+[INFO ] 2022-07-04 13:47:40.592 [main] Runner - Test Executed logout successful
+[INFO ] 2022-07-04 13:47:40.765 [main] Runner - Test Passed captured ScreenShot
